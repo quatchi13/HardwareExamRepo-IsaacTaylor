@@ -27,7 +27,7 @@ Electronics Explination:
 I made the electronics to reprisent a simple version of the idea presented by the controller, thee different buttons that will all activate the same LED when pressed. The exact functionalities of the light only lighting when an action is performed is not accounetd for here, (no tracking which way the duck is moving or if the button is off cooldown). This simple simulation shows how the controller behaves while used outside of game logic, focusing only on the positive cases to showcase tat this wiring would allow each button to light the LED and further conditions can be applied through code later to enable things like the cooldown.
 
 
-
+Link to TinkerCad: https://www.tinkercad.com/things/egznTOQTEwM-brilliant-hango-lahdi/editel?sharecode=gNHMVQ2oouvGuhtcsxjrlE-7wJzsqzlYGRfeCNjwbLI
 
 
 
